@@ -25,3 +25,7 @@ draft parameters:
 直接用 random forest 效果不佳. 过拟合表现.
 
 初期还需要选择特征, 把基本的参数工程明白.
+
+### 1.2 first submission
+
+50, 10, 20 trees for random forest
